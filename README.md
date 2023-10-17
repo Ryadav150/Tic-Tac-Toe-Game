@@ -41,7 +41,3 @@ Welcome to my Tic-Tac-Toe game project! 🎮
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Thank you for checking out my Tic-Tac-Toe game! I hope you enjoy playing it as much as I enjoyed creating it. If you have any questions or feedback, please don't hesitate to reach out. Happy gaming! 🎉

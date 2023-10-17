@@ -2,7 +2,7 @@
 
 Welcome to my Tic-Tac-Toe game project! 🎮
 
-![Tic-Tac-Toe Screenshot](insert-screenshot-url-here)
+![Tic-Tac-Toe Screenshot](https://github.com/Ryadav150/Tic-Tac-Toe-Game/blob/main/Screenshot%202023-10-17%20145904.png)
 
 ## Table of Contents
 - [Demo](#demo)
@@ -33,7 +33,7 @@ Welcome to my Tic-Tac-Toe game project! 🎮
 - If all spaces are filled and no player has three in a row, the game results in a draw.
 
 ## Installation
-1. Clone this repository: [`git clone https://github.com/your-username/tic-tac-toe.git`](https://github.com/Ryadav150/Tic-Tac-Toe-Game/tree/main)
+1. Clone this repository:(https://github.com/Ryadav150/Tic-Tac-Toe-Game/tree/main)
 2. Open the `index.html` file in your browser.
 
 ## Contributing

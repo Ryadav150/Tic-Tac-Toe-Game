@@ -33,7 +33,7 @@ Welcome to my Tic-Tac-Toe game project! 🎮
 - If all spaces are filled and no player has three in a row, the game results in a draw.
 
 ## Installation
-1. Clone this repository: `git clone https://github.com/your-username/tic-tac-toe.git`
+1. Clone this repository: [`git clone https://github.com/your-username/tic-tac-toe.git`](https://github.com/Ryadav150/Tic-Tac-Toe-Game/tree/main)
 2. Open the `index.html` file in your browser.
 
 ## Contributing
